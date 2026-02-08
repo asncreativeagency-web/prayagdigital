@@ -8,8 +8,8 @@
       <button
         class="navbar-toggler"
         type="button"
-        data-toggle="collapse"
-        data-target="#navbarSupportedContent"
+        data-bs-toggle="collapse"
+        data-bs-target="#navbarSupportedContent"
         aria-controls="navbarSupportedContent"
         aria-expanded="false"
         aria-label="Toggle navigation"
@@ -37,7 +37,7 @@
           >
             <a
               class="nav-link dropdown-toggle"
-              data-toggle="dropdown"
+              data-bs-toggle="dropdown"
               href="#"
               role="button"
               aria-haspopup="true"
@@ -65,7 +65,7 @@
           >
             <a
               class="nav-link dropdown-toggle"
-              data-toggle="dropdown"
+              data-bs-toggle="dropdown"
               href="#"
               role="button"
               aria-haspopup="true"
@@ -99,7 +99,7 @@
           >
             <a
               class="nav-link dropdown-toggle"
-              data-toggle="dropdown"
+              data-bs-toggle="dropdown"
               href="#"
               role="button"
               aria-haspopup="true"
@@ -120,7 +120,7 @@
           >
             <a
               class="nav-link dropdown-toggle"
-              data-toggle="dropdown"
+              data-bs-toggle="dropdown"
               href="#"
               role="button"
               aria-haspopup="true"
