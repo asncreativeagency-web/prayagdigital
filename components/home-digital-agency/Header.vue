@@ -38,9 +38,9 @@
                 </div>
               </div>
               <div>
-                <NuxtLink to="/page-about">
+                <a href="/page-about">
                   <span class="ti-arrow-top-right"></span>
-                </NuxtLink>
+                </a>
               </div>
             </div>
             <div class="text mt-30">

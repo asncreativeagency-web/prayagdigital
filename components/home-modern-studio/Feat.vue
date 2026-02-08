@@ -12,9 +12,9 @@
             </h3>
           </div>
           <div class="ml-auto vi-more">
-            <NuxtLink to="/page-services" class="butn butn-sm butn-bord radius-30">
+            <a href="/page-services" class="butn butn-sm butn-bord radius-30">
               <span>View All</span>
-            </NuxtLink>
+            </a>
             <span class="icon ti-arrow-top-right"></span>
           </div>
         </div>
@@ -22,13 +22,11 @@
       <div class="row">
         <div v-for="(item, i) in data" :key="{ i }" class="col-lg-3 col-md-6">
           <div class="item-box radius-15 md-mb50">
-            <NuxtLink :to="item.link" class="d-block h-100">
-              <div class="icon-img-70 mb-40 opacity-3">
-                <img :src="item.img" alt="" />
-              </div>
-              <h6 class="mb-25">{{ item.title }}</h6>
-              <p>{{ item.desc.slice(0, 50) }}</p>
-            </NuxtLink>
+            <div class="icon-img-70 mb-40 opacity-3">
+              <img :src="item.img" alt="" />
+            </div>
+            <h6 class="mb-25">{{ item.title }}</h6>
+            <p>{{ item.desc.slice(0, 50) }}</p>
           </div>
         </div>
       </div>

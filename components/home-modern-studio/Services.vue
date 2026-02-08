@@ -6,8 +6,8 @@
           <div class="sec-head md-mb80">
             <h6 class="sub-title main-color mb-15">Our Services</h6>
             <h2>The Best Solution For Your Business</h2>
-            <NuxtLink
-              to="/page-services"
+            <a
+              href="/page-services"
               class="butn-crev d-flex align-items-center mt-30"
             >
               <span class="hover-this">
@@ -16,7 +16,7 @@
                 </span>
               </span>
               <span class="text">Learn more</span>
-              </NuxtLink>
+            </a>
           </div>
         </div>
         <div class="col-lg-7 offset-lg-1">
@@ -27,9 +27,9 @@
               <h2>UI / UX <span class="fw-200">Web Design</span></h2>
             </div>
             <div class="ml-auto">
-              <NuxtLink to="/page-services-details">
+              <a href="/page-services-details">
                 Learn more <span class="ti-arrow-top-right ml-10"></span>
-                </NuxtLink>
+              </a>
             </div>
           </div>
           <div class="item d-flex align-items-center">
@@ -39,9 +39,9 @@
               <h2>Brand <span class="fw-200">Strategy</span></h2>
             </div>
             <div class="ml-auto">
-              <NuxtLink to="/page-services-details">
+              <a href="/page-services-details">
                 Learn more <span class="ti-arrow-top-right ml-10"></span>
-                </NuxtLink>
+              </a>
             </div>
           </div>
           <div class="item d-flex align-items-center">
@@ -51,9 +51,9 @@
               <h2>SEO / <span class="fw-200">Marketing</span></h2>
             </div>
             <div class="ml-auto">
-              <NuxtLink to="/page-services-details">
+              <a href="/page-services-details">
                 Learn more <span class="ti-arrow-top-right ml-10"></span>
-                </NuxtLink>
+              </a>
             </div>
           </div>
           <div class="item d-flex align-items-center">
@@ -63,9 +63,9 @@
               <h2>Content <span class="fw-200">Writing</span></h2>
             </div>
             <div class="ml-auto">
-              <NuxtLink to="/page-services-details">
+              <a href="/page-services-details">
                 Learn more <span class="ti-arrow-top-right ml-10"></span>
-                </NuxtLink>
+              </a>
             </div>
           </div>
         </div>
