@@ -43,6 +43,8 @@ export default defineNuxtConfig({
       ],
       link: [
         { rel: 'shortcut icon', href: '/assets/imgs/logo.png' },
+        { rel: 'icon', type: 'image/png', href: '/assets/imgs/logo.png' },
+        { rel: 'apple-touch-icon', href: '/assets/imgs/logo.png' },
         // Google Fonts
         {
           rel: 'stylesheet',

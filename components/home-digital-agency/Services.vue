@@ -26,18 +26,20 @@
           @mouseenter="handleActiveSer"
           :class="{ item: true, active: i === 0 }"
         >
-          <div class="icon-img-60">
-            <img :src="item.img" alt="" />
-          </div>
-          <div>
-            <div class="text mb-30">
-              <p>{{ item.desc }}</p>
+          <NuxtLink :to="item.link" class="d-block">
+            <div class="icon-img-60">
+              <img :src="item.img" alt="" />
             </div>
-            <div class="d-flex align-items-center">
-              <h6 class="sub-title">{{ item.title }}</h6>
-              <span class="ml-auto fz-13">{{ `0${i + 1}` }}</span>
+            <div>
+              <div class="text mb-30">
+                <p>{{ item.desc }}</p>
+              </div>
+              <div class="d-flex align-items-center">
+                <h6 class="sub-title">{{ item.title }}</h6>
+                <span class="ml-auto fz-13">{{ `0${i + 1}` }}</span>
+              </div>
             </div>
-          </div>
+          </NuxtLink>
         </div>
       </div>
     </div>

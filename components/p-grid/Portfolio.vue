@@ -37,9 +37,9 @@
                 <h6>Fashion Brand Scale</h6>
               </div>
               <div class="ml-auto">
-                <a href="/project-details">
+                <NuxtLink to="/project-details">
                   <span class="ti-arrow-top-right"></span>
-                </a>
+                </NuxtLink>
               </div>
             </div>
           </div>
@@ -55,9 +55,9 @@
                 <h6>Tech Startup Leads</h6>
               </div>
               <div class="ml-auto">
-                <a href="/project-details">
+                <NuxtLink to="/project-details">
                   <span class="ti-arrow-top-right"></span>
-                </a>
+                </NuxtLink>
               </div>
             </div>
           </div>
@@ -73,9 +73,9 @@
                 <h6>Skin Care Viral</h6>
               </div>
               <div class="ml-auto">
-                <a href="/project-details">
+                <NuxtLink to="/project-details">
                   <span class="ti-arrow-top-right"></span>
-                </a>
+                </NuxtLink>
               </div>
             </div>
           </div>
@@ -91,9 +91,9 @@
                 <h6>Jewelry Store</h6>
               </div>
               <div class="ml-auto">
-                <a href="/project-details">
+                <NuxtLink to="/project-details">
                   <span class="ti-arrow-top-right"></span>
-                </a>
+                </NuxtLink>
               </div>
             </div>
           </div>
@@ -109,9 +109,9 @@
                 <h6>SaaS Growth</h6>
               </div>
               <div class="ml-auto">
-                <a href="/project-details">
+                <NuxtLink to="/project-details">
                   <span class="ti-arrow-top-right"></span>
-                </a>
+                </NuxtLink>
               </div>
             </div>
           </div>
@@ -127,9 +127,9 @@
                 <h6>Home Decor Sales</h6>
               </div>
               <div class="ml-auto">
-                <a href="/project-details">
+                <NuxtLink to="/project-details">
                   <span class="ti-arrow-top-right"></span>
-                </a>
+                </NuxtLink>
               </div>
             </div>
           </div>
@@ -145,9 +145,9 @@
                 <h6>Local Service ROI</h6>
               </div>
               <div class="ml-auto">
-                <a href="/project-details">
+                <NuxtLink to="/project-details">
                   <span class="ti-arrow-top-right"></span>
-                </a>
+                </NuxtLink>
               </div>
             </div>
           </div>
@@ -163,9 +163,9 @@
                 <h6>Organic Community</h6>
               </div>
               <div class="ml-auto">
-                <a href="/project-details">
+                <NuxtLink to="/project-details">
                   <span class="ti-arrow-top-right"></span>
-                </a>
+                </NuxtLink>
               </div>
             </div>
           </div>
@@ -181,9 +181,9 @@
                 <h6>Clothing Line</h6>
               </div>
               <div class="ml-auto">
-                <a href="/project-details">
+                <NuxtLink to="/project-details">
                   <span class="ti-arrow-top-right"></span>
-                </a>
+                </NuxtLink>
               </div>
             </div>
           </div>

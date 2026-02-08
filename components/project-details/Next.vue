@@ -13,9 +13,9 @@
               </div>
               <div>
                 <h6 class="sub-title fz-16 mb-5">Prev Project</h6>
-                <a href="/project-details" class="fz-40 fw-600 stroke">
+                <NuxtLink to="/project-details" class="fz-40 fw-600 stroke">
                   OPT Media Agency
-                </a>
+                </NuxtLink>
               </div>
             </div>
           </div>
@@ -29,9 +29,9 @@
               <div class="cont d-flex align-items-center">
                 <div>
                   <h6 class="sub-title fz-16 mb-5">Next Project</h6>
-                  <a href="/project-details" class="fz-40 fw-600 stroke">
+                  <NuxtLink to="/project-details" class="fz-40 fw-600 stroke">
                     TH3 Web Design
-                  </a>
+                  </NuxtLink>
                 </div>
                 <div>
                   <span class="ml-30 fz-30 ti-arrow-right"></span>

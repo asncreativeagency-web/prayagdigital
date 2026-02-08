@@ -27,16 +27,16 @@
             <h6 class="sub-title mb-30">Useful Links</h6>
             <ul class="rest fz-14 opacity-7">
               <li class="mb-15">
-                <a href="/page-about">About</a>
+                <NuxtLink to="/page-about">About</NuxtLink>
               </li>
               <li class="mb-15">
-                <a href="/page-services">Services</a>
+                <NuxtLink to="/page-services">Services</NuxtLink>
               </li>
               <li class="mb-15">
-                <a href="/blog-grid-sidebar">Blog</a>
+                <NuxtLink to="/blog-grid-sidebar">Blog</NuxtLink>
               </li>
               <li>
-                <a href="/page-contact">Contact</a>
+                <NuxtLink to="/page-contact">Contact</NuxtLink>
               </li>
             </ul>
           </div>

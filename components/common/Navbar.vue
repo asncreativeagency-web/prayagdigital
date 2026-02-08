@@ -25,9 +25,9 @@
       >
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link" href="/">
+            <NuxtLink class="nav-link" to="/">
               <span class="rolling-text">Home</span>
-            </a>
+            </NuxtLink>
           </li>
 
           <li
@@ -47,13 +47,13 @@
             </a>
             <ul class="dropdown-menu">
               <li>
-                <a class="dropdown-item" href="/page-about"> About Us </a>
+                <NuxtLink class="dropdown-item" to="/page-about"> About Us </NuxtLink>
               </li>
               <li>
-                <a class="dropdown-item" href="/page-team"> Our Team </a>
+                <NuxtLink class="dropdown-item" to="/page-team"> Our Team </NuxtLink>
               </li>
               <li>
-                <a class="dropdown-item" href="/page-FAQ"> FAQ </a>
+                <NuxtLink class="dropdown-item" to="/page-FAQ"> FAQ </NuxtLink>
               </li>
             </ul>
           </li>
@@ -75,19 +75,19 @@
             </a>
             <ul class="dropdown-menu">
               <li>
-                <a class="dropdown-item" href="/service-meta-ads"> Meta Ads </a>
+                <NuxtLink class="dropdown-item" to="/service-meta-ads"> Meta Ads </NuxtLink>
               </li>
               <li>
-                <a class="dropdown-item" href="/service-google-ads"> Google Ads </a>
+                <NuxtLink class="dropdown-item" to="/service-google-ads"> Google Ads </NuxtLink>
               </li>
               <li>
-                <a class="dropdown-item" href="/service-social-media"> Social Media Handling </a>
+                <NuxtLink class="dropdown-item" to="/service-social-media"> Social Media Handling </NuxtLink>
               </li>
               <li>
-                <a class="dropdown-item" href="/service-shopify"> Shopify Websites </a>
+                <NuxtLink class="dropdown-item" to="/service-shopify"> Shopify Websites </NuxtLink>
               </li>
               <li>
-                <a class="dropdown-item" href="/service-ppc"> Pay Per Click </a>
+                <NuxtLink class="dropdown-item" to="/service-ppc"> Pay Per Click </NuxtLink>
               </li>
             </ul>
           </li>
@@ -108,8 +108,8 @@
               <span class="rolling-text">Portfolio</span>
             </a>
             <div class="dropdown-menu">
-              <a class="dropdown-item" href="/portfolio-grid"> Portfolio Grid </a>
-              <a class="dropdown-item" href="/portfolio-masonry"> Portfolio Masonry </a>
+              <NuxtLink class="dropdown-item" to="/portfolio-grid"> Portfolio Grid </NuxtLink>
+              <NuxtLink class="dropdown-item" to="/portfolio-masonry"> Portfolio Masonry </NuxtLink>
             </div>
           </li>
 
@@ -129,26 +129,26 @@
               <span class="rolling-text">Blog</span>
             </a>
             <div class="dropdown-menu">
-              <a class="dropdown-item" href="/blog-grid-sidebar"> Blog Grid </a>
-              <a class="dropdown-item" href="/blog-details"> Blog Details </a>
+              <NuxtLink class="dropdown-item" to="/blog-grid-sidebar"> Blog Grid </NuxtLink>
+              <NuxtLink class="dropdown-item" to="/blog-details"> Blog Details </NuxtLink>
             </div>
           </li>
 
           <li class="nav-item">
-            <a class="nav-link" href="/page-contact">
+            <NuxtLink class="nav-link" to="/page-contact">
               <span class="rolling-text">Contact</span>
-            </a>
+            </NuxtLink>
           </li>
         </ul>
       </div>
 
       <div class="contact-button">
-        <a
-          href="/page-contact"
+        <NuxtLink
+          to="/page-contact"
           class="butn butn-sm butn-bg main-colorbg radius-5"
         >
           <span class="text">Get a Quote</span>
-        </a>
+        </NuxtLink>
       </div>
     </div>
   </nav>

@@ -33,12 +33,12 @@
               <div class="cont inline d-flex align-items-center">
                 <div>
                   <h5>
-                    <a href="/project-details">Viral Campaign</a>
+                    <NuxtLink to="/project-details">Viral Campaign</NuxtLink>
                   </h5>
                 </div>
                 <div class="ml-auto">
                   <p>
-                    <a href="/project-details">Social Media</a>
+                    <NuxtLink to="/project-details">Social Media</NuxtLink>
                   </p>
                 </div>
               </div>
@@ -51,10 +51,10 @@
               <img src="/assets/imgs/works/4/1.jpg" alt="" />
               <div class="cont">
                 <h5>
-                  <a href="/project-details">Search Intent</a>
+                  <NuxtLink to="/project-details">Search Intent</NuxtLink>
                 </h5>
                 <p>
-                  <a href="/project-details">Google Ads</a>
+                  <NuxtLink to="/project-details">Google Ads</NuxtLink>
                 </p>
               </div>
             </div>
@@ -66,10 +66,10 @@
               <img src="/assets/imgs/works/4/2.jpg" alt="" />
               <div class="cont">
                 <h5>
-                  <a href="/project-details">Store Scale</a>
+                  <NuxtLink to="/project-details">Store Scale</NuxtLink>
                 </h5>
                 <p>
-                  <a href="/project-details">Shopify</a>
+                  <NuxtLink to="/project-details">Shopify</NuxtLink>
                 </p>
               </div>
             </div>
@@ -81,10 +81,10 @@
               <img src="/assets/imgs/works/4/3.jpg" alt="" />
               <div class="cont">
                 <h5>
-                  <a href="/project-details">FB Audience</a>
+                  <NuxtLink to="/project-details">FB Audience</NuxtLink>
                 </h5>
                 <p>
-                  <a href="/project-details">Meta Ads</a>
+                  <NuxtLink to="/project-details">Meta Ads</NuxtLink>
                 </p>
               </div>
             </div>
@@ -96,10 +96,10 @@
               <img src="/assets/imgs/works/4/4.jpg" alt="" />
               <div class="cont">
                 <h5>
-                  <a href="/project-details">Acquisition</a>
+                  <NuxtLink to="/project-details">Acquisition</NuxtLink>
                 </h5>
                 <p>
-                  <a href="/project-details">PPC</a>
+                  <NuxtLink to="/project-details">PPC</NuxtLink>
                 </p>
               </div>
             </div>
@@ -112,12 +112,12 @@
               <div class="cont inline d-flex align-items-center">
                 <div>
                   <h5>
-                    <a href="/project-details">Brand Awareness</a>
+                    <NuxtLink to="/project-details">Brand Awareness</NuxtLink>
                   </h5>
                 </div>
                 <div class="ml-auto">
                   <p>
-                    <a href="/project-details">Social Media</a>
+                    <NuxtLink to="/project-details">Social Media</NuxtLink>
                   </p>
                 </div>
               </div>
@@ -131,12 +131,12 @@
               <div class="cont inline d-flex align-items-center">
                 <div>
                   <h5>
-                    <a href="/project-details">Retargeting</a>
+                    <NuxtLink to="/project-details">Retargeting</NuxtLink>
                   </h5>
                 </div>
                 <div class="ml-auto">
                   <p>
-                    <a href="/project-details">Meta Ads</a>
+                    <NuxtLink to="/project-details">Meta Ads</NuxtLink>
                   </p>
                 </div>
               </div>
@@ -150,12 +150,12 @@
               <div class="cont inline d-flex align-items-center">
                 <div>
                   <h5>
-                    <a href="/project-details">Shopping Ads</a>
+                    <NuxtLink to="/project-details">Shopping Ads</NuxtLink>
                   </h5>
                 </div>
                 <div class="ml-auto">
                   <p>
-                    <a href="/project-details">Google Ads</a>
+                    <NuxtLink to="/project-details">Google Ads</NuxtLink>
                   </p>
                 </div>
               </div>
