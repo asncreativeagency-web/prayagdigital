@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Meta ads",
+    "img": "/assets/imgs/serv-icons/3.png",
+    "desc": "Effective Facebook and Instagram ad campaigns to reach your target audience and boost engagement.",
+    "link": "/service-meta-ads"
+  },
+  {
+    "title": "Google ads",
+    "img": "/assets/imgs/serv-icons/4.png",
+    "desc": "Strategic Google Ads management to drive traffic, increase conversions, and maximize ROI.",
+    "link": "/service-google-ads"
+  },
+  {
+    "title": "Social Media handling",
+    "img": "/assets/imgs/serv-icons/5.png",
+    "desc": "Comprehensive social media management to build brand awareness and foster community growth.",
+    "link": "/service-social-media"
+  },
+  {
+    "title": "Shopify websites",
+    "img": "/assets/imgs/serv-icons/3.png",
+    "desc": "Custom Shopify store development and optimization for a seamless e-commerce experience.",
+    "link": "/service-shopify"
+  },
+  {
+    "title": "Pay per click",
+    "img": "/assets/imgs/serv-icons/4.png",
+    "desc": "Targeted PPC campaigns across various platforms to generate leads and sales effectively.",
+    "link": "/service-ppc"
+  }
+]
