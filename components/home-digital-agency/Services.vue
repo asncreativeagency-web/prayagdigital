@@ -26,14 +26,15 @@
           @mouseenter="handleActiveSer"
           :class="{ item: true, active: i === 0 }"
         >
+          <NuxtLink :to="item.link" class="full-link-overlay"></NuxtLink>
           <div class="icon-img-60">
             <img :src="item.img" alt="" />
           </div>
           <div>
-            <div class="text mb-30">
+            <div class="text mb-80">
               <p>{{ item.desc }}</p>
             </div>
-            <div class="d-flex align-items-center">
+            <div class="d-flex align-items-center bottom-tag">
               <h6 class="sub-title">{{ item.title }}</h6>
               <span class="ml-auto fz-13">{{ `0${i + 1}` }}</span>
             </div>
@@ -56,5 +57,21 @@ function handleActiveSer(event) {
 </script>
 
 <style scoped>
-/* Add your component-specific styles here */
+.services-modern .item {
+  position: relative;
+}
+.services-modern .item .full-link-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 10;
+}
+.services-modern .item .bottom-tag {
+  position: absolute;
+  bottom: 40px;
+  left: 30px;
+  right: 30px;
+}
 </style>
