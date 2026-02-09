@@ -12,7 +12,7 @@
                 </p>
               </div>
               <div class="col-lg-8 order-md-1 md-mb30">
-                <h1>Digital Marketing Agency.</h1>
+                <h1>Marketing Agency.</h1>
               </div>
             </div>
           </div>
