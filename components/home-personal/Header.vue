@@ -48,15 +48,15 @@
       <div class="info d-flex align-items-center justify-content-end mt-100">
         <div class="item">
           <h6 class="sub-title mb-10">Email :</h6>
-          <span class="p-color">Webfolio.Info@gmail.com</span>
+          <span class="p-color">prayagdigital.in@gmail.com</span>
         </div>
         <div class="item">
           <h6 class="sub-title mb-10">Phone :</h6>
-          <span class="p-color">+2 456 (343) 24 45</span>
+          <span class="p-color">+91 92354 62307</span>
         </div>
         <div class="item">
           <h6 class="sub-title mb-10">Address :</h6>
-          <span class="p-color">5919 Trussville Pkwy, Birmingham</span>
+          <span class="p-color">Plot no 33, Lane no 5, Vishanpuri Colony, Mundera, Prayagraj - 211011</span>
         </div>
       </div>
     </div>

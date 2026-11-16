@@ -1,8 +1,8 @@
 <template>
   <nav class="navbar navbar-expand-lg bord blur">
     <div class="container o-hidden">
-      <a class="logo icon-img-120" href="#">
-        <img src="/assets/imgs/logo.png" alt="logo" />
+      <a class="logo" href="/" style="width: 170px;">
+        <img src="/assets/imgs/logo.png" alt="Prayag Digital" />
       </a>
 
       <button

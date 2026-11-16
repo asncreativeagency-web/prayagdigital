@@ -3,22 +3,23 @@
     <div class="container pb-40 pt-40 ontop">
       <div class="row justify-content-between">
         <div class="col-lg-2">
-          <div class="logo icon-img-120 md-mb80">
-            <img src="/assets/imgs/logo.png" alt="" />
+          <div class="logo md-mb80" style="width: 160px; max-width: 100%;">
+            <img src="/assets/imgs/logo.png" alt="Prayag Digital" />
           </div>
         </div>
         <div class="col-lg-4">
           <div class="column md-mb50">
             <h6 class="sub-title mb-30">Contact</h6>
             <h6 class="p-color fw-400">
-              5919 Trussville Crossings <br />
-              Pkwy, Birmingham
+              Plot no 33, Lane no 5, <br />
+              Vishanpuri Colony, Mundera, <br />
+              Prayagraj - 211011
             </h6>
             <h6 class="mt-30 mb-15">
-              <a href="#0">Hello@prayagdigital.com</a>
+              <a href="mailto:prayagdigital.in@gmail.com">prayagdigital.in@gmail.com</a>
             </h6>
-            <a href="#0" class="underline">
-              <span class="fz-22 main-color">+91 98765 43210</span>
+            <a href="tel:+919235462307" class="underline">
+              <span class="fz-22 main-color">+91 92354 62307</span>
             </a>
           </div>
         </div>
@@ -52,23 +53,36 @@
             </div>
             <ul class="rest social-icon d-flex align-items-center">
               <li class="hover-this cursor-pointer">
-                <a href="#0" class="hover-anim">
-                  <i class="fab fa-facebook-f"></i>
+                <a
+                  href="https://whatsapp.com/channel/0029VbBFNw9DzgT3yoACmM3J"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="hover-anim"
+                  title="WhatsApp Channel"
+                >
+                  <i class="fab fa-whatsapp"></i>
                 </a>
               </li>
               <li class="hover-this cursor-pointer ml-10">
-                <a href="#0" class="hover-anim">
-                  <i class="fab fa-dribbble"></i>
-                </a>
-              </li>
-              <li class="hover-this cursor-pointer ml-10">
-                <a href="#0" class="hover-anim">
-                  <i class="fab fa-linkedin-in"></i>
-                </a>
-              </li>
-              <li class="hover-this cursor-pointer ml-10">
-                <a href="#0" class="hover-anim">
+                <a
+                  href="https://www.instagram.com/prayag.digital"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="hover-anim"
+                  title="Instagram"
+                >
                   <i class="fab fa-instagram"></i>
+                </a>
+              </li>
+              <li class="hover-this cursor-pointer ml-10">
+                <a
+                  href="https://www.linkedin.com/in/prayag-digital-871b05437"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="hover-anim"
+                  title="LinkedIn"
+                >
+                  <i class="fab fa-linkedin-in"></i>
                 </a>
               </li>
             </ul>

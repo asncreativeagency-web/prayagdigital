@@ -5,29 +5,41 @@
         <div class="col-lg-4 valign">
           <div class="sec-head info-box full-width md-mb80">
             <div class="phone fz-30 fw-600 underline main-color">
-              <a href="tel:+18408412569">+1 840 841 25 69</a>
+              <a href="tel:+919235462307">+91 92354 62307</a>
             </div>
             <div class="morinfo mt-50 pb-30 bord-thin-bottom">
               <h6 class="mb-15">Address</h6>
-              <p>Besòs 1, 08174 Sant Cugat del Vallès, Barcelona</p>
+              <p>Plot no 33, Lane no 5, Vishanpuri Colony, Mundera, Prayagraj - 211011</p>
             </div>
             <div class="morinfo mt-30 pb-30 bord-thin-bottom">
               <h6 class="mb-15">Email</h6>
-              <p>Support@UiCamp.com</p>
+              <p><a href="mailto:prayagdigital.in@gmail.com">prayagdigital.in@gmail.com</a></p>
             </div>
 
             <div class="social-icon mt-50">
-              <a href="#0">
-                <i class="fab fa-facebook-f"></i>
+              <a
+                href="https://whatsapp.com/channel/0029VbBFNw9DzgT3yoACmM3J"
+                target="_blank"
+                rel="noopener noreferrer"
+                title="WhatsApp Channel"
+              >
+                <i class="fab fa-whatsapp"></i>
               </a>
-              <a href="#0">
-                <i class="fab fa-dribbble"></i>
-              </a>
-              <a href="#0">
-                <i class="fab fa-behance"></i>
-              </a>
-              <a href="#0">
+              <a
+                href="https://www.instagram.com/prayag.digital"
+                target="_blank"
+                rel="noopener noreferrer"
+                title="Instagram"
+              >
                 <i class="fab fa-instagram"></i>
+              </a>
+              <a
+                href="https://www.linkedin.com/in/prayag-digital-871b05437"
+                target="_blank"
+                rel="noopener noreferrer"
+                title="LinkedIn"
+              >
+                <i class="fab fa-linkedin-in"></i>
               </a>
             </div>
           </div>

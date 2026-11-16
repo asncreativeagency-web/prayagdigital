@@ -33,11 +33,10 @@
                 </li>
                 <li class="mb-25 fz-18">
                   <span class="sub-title mr-15">Email :</span>
-                  Aron_Bowers@domain.com
+                  prayagdigital.in@gmail.com
                 </li>
                 <li class="fz-18">
-                  <span class="sub-title mr-15">Phone :</span> +44 (0) 20 7430
-                  2973
+                  <span class="sub-title mr-15">Phone :</span> +91 92354 62307
                 </li>
               </ul>
             </div>
@@ -58,23 +57,36 @@
             </p>
             <ul class="rest mt-30 social-icon d-flex align-items-center">
               <li class="hover-this cursor-pointer">
-                <a href="#0" class="hover-anim">
-                  <i class="fab fa-facebook-f"></i>
+                <a
+                  href="https://whatsapp.com/channel/0029VbBFNw9DzgT3yoACmM3J"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="hover-anim"
+                  title="WhatsApp Channel"
+                >
+                  <i class="fab fa-whatsapp"></i>
                 </a>
               </li>
               <li class="hover-this cursor-pointer ml-10">
-                <a href="#0" class="hover-anim">
-                  <i class="fab fa-dribbble"></i>
-                </a>
-              </li>
-              <li class="hover-this cursor-pointer ml-10">
-                <a href="#0" class="hover-anim">
-                  <i class="fab fa-linkedin-in"></i>
-                </a>
-              </li>
-              <li class="hover-this cursor-pointer ml-10">
-                <a href="#0" class="hover-anim">
+                <a
+                  href="https://www.instagram.com/prayag.digital"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="hover-anim"
+                  title="Instagram"
+                >
                   <i class="fab fa-instagram"></i>
+                </a>
+              </li>
+              <li class="hover-this cursor-pointer ml-10">
+                <a
+                  href="https://www.linkedin.com/in/prayag-digital-871b05437"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="hover-anim"
+                  title="LinkedIn"
+                >
+                  <i class="fab fa-linkedin-in"></i>
                 </a>
               </li>
             </ul>

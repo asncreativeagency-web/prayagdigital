@@ -9,6 +9,7 @@
       <main class="main-bg o-hidden">
         <Header />
         <Services />
+        <CampaignResults />
         <Intro2 />
         <Numbers />
         <Portfolio />
@@ -33,6 +34,7 @@ import Clients from '@/components/common/Clients';
 import Marq2 from '@/components/common/Marq2';
 import Header from '@/components/home-digital-agency/Header';
 import Services from '@/components/home-digital-agency/Services';
+import CampaignResults from '@/components/home-digital-agency/CampaignResults';
 import Intro2 from '@/components/home-digital-agency/Intro2';
 import Numbers from '@/components/home-digital-agency/Numbers';
 import Portfolio from '@/components/home-digital-agency/Portfolio';
@@ -55,9 +57,23 @@ useHead({
         url: 'https://prayagdigital.com',
         logo: 'https://prayagdigital.com/assets/imgs/logo.png',
         description: 'Full-service digital marketing agency specializing in Meta Ads, Social Media Management, Shopify Websites, Logo Design, Graphic Design, and Video Editing.',
-        sameAs: [],
+        address: {
+          '@type': 'PostalAddress',
+          streetAddress: 'Plot no 33, Lane no 5, Vishanpuri Colony, Mundera',
+          addressLocality: 'Prayagraj',
+          addressRegion: 'Uttar Pradesh',
+          postalCode: '211011',
+          addressCountry: 'IN',
+        },
+        sameAs: [
+          'https://www.instagram.com/prayag.digital',
+          'https://www.linkedin.com/in/prayag-digital-871b05437',
+          'https://whatsapp.com/channel/0029VbBFNw9DzgT3yoACmM3J',
+        ],
         contactPoint: {
           '@type': 'ContactPoint',
+          telephone: '+91-9235462307',
+          email: 'prayagdigital.in@gmail.com',
           contactType: 'customer service',
           availableLanguage: ['English', 'Hindi'],
         },

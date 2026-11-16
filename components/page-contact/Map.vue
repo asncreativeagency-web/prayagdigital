@@ -6,5 +6,5 @@
 
 <script setup>
 const mapSrc =
-  'https://maps.google.com/maps?q=hollwood&t=&z=11&ie=UTF8&iwloc=&output=embed';
+  'https://maps.google.com/maps?q=Plot+no+33+Lane+no+5+Vishanpuri+colony+mundera+Prayagraj+211011&t=&z=14&ie=UTF8&iwloc=&output=embed';
 </script>
