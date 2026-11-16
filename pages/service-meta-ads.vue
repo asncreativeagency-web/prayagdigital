@@ -12,6 +12,7 @@
           bgImage="/assets/imgs/background/bg4.jpg" 
         />
         <Intro :data="serviceData" />
+        <MetaAdsCaseStudy />
         <Feat />
         <div style="padding-top: 140px">
           <Intro2 />
@@ -33,6 +34,7 @@ import Marq2 from '@/components/common/Marq2';
 import Header from '@/components/page-services-details/Header';
 import Intro from '@/components/page-services-details/Intro';
 import Feat from '@/components/page-services-details/Feat';
+import MetaAdsCaseStudy from '@/components/page-services-details/MetaAdsCaseStudy';
 import Intro2 from '@/components/home-digital-agency/Intro2';
 
 const serviceData = {
@@ -47,4 +49,13 @@ const serviceData = {
     "Performance Scaling"
   ]
 };
+
+useHead({
+  title: 'Meta Ads Services | Prayag Digital',
+  meta: [
+    { name: 'description', content: 'Expert Meta Ads management by Prayag Digital. Data-driven Facebook & Instagram ad campaigns that maximize ROI with precision targeting and creative optimization.' },
+    { property: 'og:title', content: 'Meta Ads Services | Prayag Digital' },
+    { property: 'og:description', content: 'Data-driven Facebook & Instagram ad campaigns that maximize ROI with precision targeting.' },
+  ],
+});
 </script>

@@ -12,6 +12,7 @@
           bgImage="/assets/imgs/background/bg4.jpg" 
         />
         <Intro :data="serviceData" />
+        <ShopifyCaseStudy />
         <Feat />
         <div style="padding-top: 140px">
           <Intro2 />
@@ -33,6 +34,7 @@ import Marq2 from '@/components/common/Marq2';
 import Header from '@/components/page-services-details/Header';
 import Intro from '@/components/page-services-details/Intro';
 import Feat from '@/components/page-services-details/Feat';
+import ShopifyCaseStudy from '@/components/page-services-details/ShopifyCaseStudy';
 import Intro2 from '@/components/home-digital-agency/Intro2';
 
 const serviceData = {
@@ -47,4 +49,13 @@ const serviceData = {
     "Speed Optimization"
   ]
 };
+
+useHead({
+  title: 'Shopify Website Development | Prayag Digital',
+  meta: [
+    { name: 'description', content: 'Custom Shopify store development by Prayag Digital. We build high-converting e-commerce stores with stunning designs, optimized for sales and user experience.' },
+    { property: 'og:title', content: 'Shopify Website Development | Prayag Digital' },
+    { property: 'og:description', content: 'High-converting Shopify stores designed for sales and user experience.' },
+  ],
+});
 </script>
